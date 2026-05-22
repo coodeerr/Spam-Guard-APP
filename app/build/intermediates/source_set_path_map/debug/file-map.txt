@@ -1,0 +1,34 @@
+com.phishguard.app-drawerlayout-1.1.1-0 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\17ea8fe28ab527394058d2553549e784\transformed\drawerlayout-1.1.1\res
+com.phishguard.app-lifecycle-viewmodel-2.6.1-1 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\1f24a168a33c8f217b36e665967e7de2\transformed\lifecycle-viewmodel-2.6.1\res
+com.phishguard.app-jetified-appcompat-resources-1.6.1-2 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\215d04fe45392483795fdcfc7e1a0078\transformed\jetified-appcompat-resources-1.6.1\res
+com.phishguard.app-lifecycle-livedata-core-2.6.1-3 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\31fbe2a67aeef1331510e4beece71465\transformed\lifecycle-livedata-core-2.6.1\res
+com.phishguard.app-jetified-profileinstaller-1.3.0-4 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\376989ab2a37c82f9d63274d58e8eb67\transformed\jetified-profileinstaller-1.3.0\res
+com.phishguard.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-5 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\3cc0d8b0294392d65ff453d9d519ffe8\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.phishguard.app-transition-1.2.0-6 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\4c83983b73dd28af754469517930cf40\transformed\transition-1.2.0\res
+com.phishguard.app-core-runtime-2.2.0-7 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\5b3c460360e18894ded11bddcdd91a4d\transformed\core-runtime-2.2.0\res
+com.phishguard.app-jetified-core-ktx-1.12.0-8 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\5dea0e3662d2b0f56c1b989804d3eea0\transformed\jetified-core-ktx-1.12.0\res
+com.phishguard.app-material-1.11.0-9 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\6afee6bb943b51c46c1c108b73d657f2\transformed\material-1.11.0\res
+com.phishguard.app-fragment-1.3.6-10 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\6e2dd1331b1ef2f86c6104843c648b6b\transformed\fragment-1.3.6\res
+com.phishguard.app-lifecycle-livedata-2.6.1-11 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\79ae86b76b66b9ca2cf488c0034343b5\transformed\lifecycle-livedata-2.6.1\res
+com.phishguard.app-appcompat-1.6.1-12 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\7df048bc9346028748544376c11aab84\transformed\appcompat-1.6.1\res
+com.phishguard.app-jetified-activity-1.8.2-13 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\84b81505e4ed3a4317dce6266fa4774a\transformed\jetified-activity-1.8.2\res
+com.phishguard.app-lifecycle-runtime-2.6.1-14 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\90bcd278b8c8f824c5f5bb834d9ead07\transformed\lifecycle-runtime-2.6.1\res
+com.phishguard.app-constraintlayout-2.0.1-15 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\91e7c1f482b6b3cb78522911955da0d2\transformed\constraintlayout-2.0.1\res
+com.phishguard.app-jetified-savedstate-1.2.1-16 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\926b7d9d2a29a47dc2e000ef702ddfa5\transformed\jetified-savedstate-1.2.1\res
+com.phishguard.app-jetified-annotation-experimental-1.3.0-17 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\9ef91520b353572c9c734df01dadf824\transformed\jetified-annotation-experimental-1.3.0\res
+com.phishguard.app-jetified-emoji2-views-helper-1.2.0-18 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\a978247d661d3d9da84064a6c7373205\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.phishguard.app-cardview-1.0.0-19 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\aefac9b4f4fc908ae96e6778237afdc1\transformed\cardview-1.0.0\res
+com.phishguard.app-recyclerview-1.1.0-20 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\b045d608402f93b5e3132792b58c6539\transformed\recyclerview-1.1.0\res
+com.phishguard.app-core-1.12.0-21 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\b2f73db4d97f01bba601f5f7c506975f\transformed\core-1.12.0\res
+com.phishguard.app-jetified-lifecycle-process-2.6.1-22 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\d62fd9cca05c2d41ea832d317852ea98\transformed\jetified-lifecycle-process-2.6.1\res
+com.phishguard.app-jetified-emoji2-1.2.0-23 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\deea2bf6d4460b688cfa50fc48da0e27\transformed\jetified-emoji2-1.2.0\res
+com.phishguard.app-coordinatorlayout-1.1.0-24 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\e9587cbe203166f13cee61394ae7a7f2\transformed\coordinatorlayout-1.1.0\res
+com.phishguard.app-jetified-viewpager2-1.0.0-25 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\ecbc6b8f1c1c326ef92cb5ccded3a0a1\transformed\jetified-viewpager2-1.0.0\res
+com.phishguard.app-jetified-startup-runtime-1.1.1-26 C:\Users\ASUS\.gradle\caches\9.0.0\transforms\fa718e73c880221479bc5c5e403304b3\transformed\jetified-startup-runtime-1.1.1\res
+com.phishguard.app-pngs-27 D:\temperory\FINAL YEAR PROJECT\PhishGuard-AndroidApp\PhishGuard\app\build\generated\res\pngs\debug
+com.phishguard.app-resValues-28 D:\temperory\FINAL YEAR PROJECT\PhishGuard-AndroidApp\PhishGuard\app\build\generated\res\resValues\debug
+com.phishguard.app-packageDebugResources-29 D:\temperory\FINAL YEAR PROJECT\PhishGuard-AndroidApp\PhishGuard\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.phishguard.app-packageDebugResources-30 D:\temperory\FINAL YEAR PROJECT\PhishGuard-AndroidApp\PhishGuard\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.phishguard.app-merged_res-31 D:\temperory\FINAL YEAR PROJECT\PhishGuard-AndroidApp\PhishGuard\app\build\intermediates\merged_res\debug
+com.phishguard.app-debug-32 D:\temperory\FINAL YEAR PROJECT\PhishGuard-AndroidApp\PhishGuard\app\src\debug\res
+com.phishguard.app-main-33 D:\temperory\FINAL YEAR PROJECT\PhishGuard-AndroidApp\PhishGuard\app\src\main\res

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.phishguard.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.phishguard.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.phishguard.app-merged_res-31:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.phishguard.app-main-33:/mipmap-hdpi/ic_launcher.xml"
+    }
+]

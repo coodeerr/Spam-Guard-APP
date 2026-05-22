@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0D2A1A</color>
+    <string name="app_name">Spam Guard-Message Verifier</string>
+    <string name="app_subtitle">SMS Threat Detection · Detects Real Time Messages</string>
+    <string name="app_title">Spam Guard</string>
+    <string name="badge_phishing">⚠ PHISHING</string>
+    <string name="badge_safe">✓ SAFE</string>
+    <string name="badge_suspicious">⚠ SUSPICIOUS</string>
+    <string name="btn_analyze">Analyze</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_test_manual">Test: Analyze a message manually</string>
+    <string name="dialog_title_test">Test SMS Analyzer</string>
+    <string name="empty_history">No messages scanned yet.\nSend yourself a test SMS or use the button below.</string>
+    <string name="hint_test_sms">Paste an SMS message here…</string>
+    <string name="msg_reason_format">%1$d%% · %2$s</string>
+    <string name="rate_empty">—</string>
+    <string name="rate_format">%1$d%%</string>
+    <string name="section_recent_scans">Recent scans</string>
+    <string name="stat_rate">Rate</string>
+    <string name="stat_safe">Safe</string>
+    <string name="stat_scanned">Scanned</string>
+    <string name="stat_threats">Threats</string>
+    <string name="status_active">● PhishGuard is ACTIVE — Scanning in Real Time</string>
+    <string name="status_permissions_required">⚠ Permissions required — tap to enable SMS \u0026 notification access</string>
+    <string name="test_result_toast_format">%1$s — %2$d%% — %3$s</string>
+    <style name="Theme.PhishGuard" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#22C55E</item>
+        <item name="colorPrimaryDark">#0D0F14</item>
+        <item name="colorAccent">#4ADE80</item>
+        <item name="android:windowBackground">#0D0F14</item>
+        <item name="android:statusBarColor">#0D0F14</item>
+        <item name="android:navigationBarColor">#0D0F14</item>
+    </style>
+</resources>

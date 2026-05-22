@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string app_subtitle
+string app_title
+string badge_phishing
+string badge_safe
+string badge_suspicious
+string btn_analyze
+string btn_cancel
+string btn_test_manual
+string dialog_title_test
+string empty_history
+string hint_test_sms
+string msg_reason_format
+string rate_empty
+string rate_format
+string section_recent_scans
+string stat_rate
+string stat_safe
+string stat_scanned
+string stat_threats
+string status_active
+string status_permissions_required
+string test_result_toast_format
+style Theme.PhishGuard
