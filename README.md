@@ -1,7 +1,6 @@
 # PhishGuard — Android SMS Threat Detector
 ### Final Year Project (URP 4301) · SOA University, Bhubaneswar
-**Team:** Ankit Kumar Sinha · Saurav Kumar · Aryan Rana · Abhinav Sinha  
-**Supervisor:** Ms. Ashwika Rathore
+
 
 ---
 
